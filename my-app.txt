@@ -5,3 +5,5 @@ this is task-1 branch
 this is second task commit
 this is first feasure branch
 this is second feature commit
+this is first feature-2 commit
+this is second feature-2 commit

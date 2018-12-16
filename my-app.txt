@@ -1,5 +1,7 @@
 this is my-app folder
+this is master
 this is my second commit
 this is remote second commit
 this is task-1 branch
 this is second task commit
+this is featur
